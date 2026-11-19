@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-ash&label=Profile%20views&color=0e75b6&style=flat" alt="i-ash" /> </p>
 
-- 🔭 I’m currently working on **Poisoning a ML Model**
-
-- 🌱 I’m currently learning **Backend, Cloud**
+- 🌱 I’m currently learning **Backend, Cloud, Machine Learning, Quantum Computing**
 
 - 💬 Ask me about **Web Development, Data Structures**
 
